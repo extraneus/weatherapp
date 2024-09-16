@@ -15,8 +15,3 @@ This Weather App is a simple web application that allows users to search for the
 - **JavaScript (ES6+)**: To handle API calls and DOM manipulation.
 - **OpenWeatherMap API**: For fetching real-time weather data.
 
-## Setup and Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
